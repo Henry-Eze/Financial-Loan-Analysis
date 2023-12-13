@@ -1,4 +1,4 @@
-# Employee's financial-Loan-Analysis
+# Employee's financial-Loan-Analysis - Excel Dashboard
 
 ## TABLE OF CONTENT
 - [Introduction](Introduction)
